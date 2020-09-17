@@ -2,11 +2,7 @@
 
 本项目是一个OA办公自动化系统，使用Maven进行项目管理，基于Springboot框架开发的项目，MySQL底层数据库，前端采用Freemarker模板引擎，Bootstrap作为前端UI框架，集成了jpa、mybatis等框架。
 
-### 2. 项目地址
-
-该项目转自: https://gitee.com/aaluoxiang/oa_system
-
-### 3. 框架介绍
+### 2. 框架介绍
 #### 前端
 
 | 技术      |    名称| 版本|	官网|
@@ -27,7 +23,7 @@
 |fastjson|json解析包|1.2.36|https://github.com/alibaba/fastjson|
 |pagehelper|Mybatis分页插件|1.0.0|https://pagehelper.github.io|
 
-### 4. 部署流程
+### 3. 部署流程
 
 	1.下载项目、把oasys.sql导入本地数据库
 	2. 修改application.properties
@@ -37,7 +33,7 @@
 	6. 在浏览器中输入localhost:8088/logins
 
 
-###  5. 项目演示
+###  4. 项目演示
 ![演示4.gif](https://i.loli.net/2018/09/26/5bab4565b121e.gif)
 ![演示3.gif](https://images.gitee.com/uploads/images/2019/0927/141251_4ef0327c_1277461.gif)
 
